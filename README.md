@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning how interpreters do their magic
 - 👯 Looking to collaborate on golang projects (open source or otherwise)
 - 📫 How to reach me: 📧cijin@seagin.me | [LinkedIn](https://www.linkedin.com/in/cijincherian/) | [Twitter](https://twitter.com/cijincherian)
+- 🤖 Building 12 projects in 12 months @[Spicylabs](https://spicylabs.co/)
 
 ### :hammer_and_wrench: Languages & Tools :
 <div>
