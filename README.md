@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-- 🔭 Working on building my analytics and performance platform [ioignition.com](http://ioignition.com/) with go & htmx and writing about it on [seagin.me/ioIgnition](https://www.seagin.me/buildpublic/ioIgnition/script)
+- 🔭 Working on building my analytics and performance platform [ioignition.com](http://ioignition.com/) with go & htmx and writing about it on [seagin.me](https://www.seagin.me)
 - 🌱 I’m currently learning how interpreters do their magic
 - 👯 Looking to collaborate on golang projects (open source or otherwise)
 - 📫 How to reach me: 📧cijin@seagin.me | [LinkedIn](https://www.linkedin.com/in/cijincherian/) | [Twitter](https://twitter.com/cijincherian)
