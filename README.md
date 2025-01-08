@@ -4,8 +4,8 @@
 
 ### Hi there 👋
 
-- 🔭 Working on building my analytics and performance platform [ioignition.com](http://ioignition.com/) with go & htmx and writing about it on [seagin.me](https://www.seagin.me)
-- 🌱 I’m currently learning how interpreters do their magic
+- 🔭 Building/Growing my SAAS for lawyers in Thailand
+- 🌱 I’m currently building a browser from scratch out of curiosity, it's built in Zig so I've called it [Zrome](https://github.com/Cijin/zrome)
 - 👯 Looking to collaborate on golang projects (open source or otherwise)
 - 📫 How to reach me: 📧cijin@seagin.me | [LinkedIn](https://www.linkedin.com/in/cijincherian/) | [Twitter](https://twitter.com/cijincherian)
 
