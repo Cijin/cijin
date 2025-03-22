@@ -4,6 +4,7 @@
 
 ### Hi there 👋
 
+- 📹 I stream on twitch almost daily: [sea_gin](https://www.twitch.tv/sea_gin)
 - 🔭 Building/Growing my SAAS and Working as a contractor building a Go API Server
 - 🌱 I’m currently building a browser from scratch out of curiosity, it's built in Zig so I've called it [Zrome](https://github.com/Cijin/zrome)
 - 👯 Looking to collaborate on golang projects (open source or otherwise)
