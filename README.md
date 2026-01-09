@@ -6,7 +6,7 @@
 
 - 📹 I stream on twitch almost daily: [sea_gin](https://www.twitch.tv/sea_gin)
 - 🔭 Building/Growing my SAAS and Working as a contractor building a Go API Server
-- 🌱 I’m currently building a browser from scratch out of curiosity, it's built in Zig so I've called it [Zrome](https://github.com/Cijin/zrome)
+- 🌱 I’m currently building a debugger with Zig for Zig on stream. [Debug Project](https://github.com/Cijin/debug-project), is in it's very early stages as of writing this.
 - 👯 Looking to collaborate on golang projects (open source or otherwise)
 - 📫 How to reach me: 📧cijin@seagin.me | [LinkedIn](https://www.linkedin.com/in/cijincherian/) | [Twitter](https://twitter.com/cijincherian)
 
